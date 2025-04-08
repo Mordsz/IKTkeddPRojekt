@@ -1,0 +1,7 @@
+C:\Users\petri\Desktop\Iskola\VisualStudio\projektmunka\projektmunka\bin\Debug\projektmunka.exe.config
+C:\Users\petri\Desktop\Iskola\VisualStudio\projektmunka\projektmunka\bin\Debug\projektmunka.exe
+C:\Users\petri\Desktop\Iskola\VisualStudio\projektmunka\projektmunka\bin\Debug\projektmunka.pdb
+C:\Users\petri\Desktop\Iskola\VisualStudio\projektmunka\projektmunka\obj\Debug\projektmunka.csproj.AssemblyReference.cache
+C:\Users\petri\Desktop\Iskola\VisualStudio\projektmunka\projektmunka\obj\Debug\projektmunka.csproj.CoreCompileInputs.cache
+C:\Users\petri\Desktop\Iskola\VisualStudio\projektmunka\projektmunka\obj\Debug\projektmunka.exe
+C:\Users\petri\Desktop\Iskola\VisualStudio\projektmunka\projektmunka\obj\Debug\projektmunka.pdb
